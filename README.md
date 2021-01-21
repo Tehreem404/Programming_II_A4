@@ -15,7 +15,7 @@
         takes input from a file and creates and prints a character linked list
 
     program 3 (a4q1b.c):
-        does not completely work, only map works (hoping for part marks on this)
+        does not completely work, only map works
         
 
 [USAGE]
