@@ -33,7 +33,7 @@
     ./a4q1b.out
     ***NOTE***
     this function does not work, only outputs the test that I used to test
-    the map function, if this doesnt help my grade PLEASE ignore it
+    the map function
     
 
 [FILENAMES]
