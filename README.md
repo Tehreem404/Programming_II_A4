@@ -34,18 +34,6 @@
     ***NOTE***
     this function does not work, only outputs the test that I used to test
     the map function
-    
-
-[FILENAMES]
-
-    a4q1a_int.c
-    a4q1a_char.c
-    a4q1b.c
-    Commands.c
-    Commands.h
-    makefile
-    Sorted_List.c
-    Sorted_list.h
 
 ***NOTE*** 
 Original header files were used (Sorted_List.c and makefile were taken
